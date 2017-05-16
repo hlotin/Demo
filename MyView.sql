@@ -1,1 +1,1 @@
-SELECT 0;
+SELECT getdate();
